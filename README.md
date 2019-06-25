@@ -9,3 +9,7 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
+
+[Github](https://github.com/jhalljhall)
+[Linked In](https://www.linkedin.com/in/jhalljhall/)
+[StackOverlow](https://stackoverflow.com/users/10976992/justin-hall)
